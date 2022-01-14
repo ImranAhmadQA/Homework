@@ -1,5 +1,5 @@
 package hw3Q2JavaVariables;
-
+// Testing
 public class AboutMe {
 
 //		I have attempted to apply initialization and declaration.
